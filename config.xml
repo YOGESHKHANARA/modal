@@ -12,7 +12,7 @@
         Hello World sample application that responds to the deviceready event.
     </description>
 
-    <author href="http://phonegap.com" email="yogeshkhanara@gmail.com">
+    <author href="http://www.google.com" email="yogeshkhanara@gmail.com">
         yogesh
     </author>
 
@@ -21,4 +21,8 @@
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
     -->
+  <icon src="icon.png" />
 </widget>
+    <preference name="permissions"                value="none"/>
+
+  
