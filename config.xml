@@ -15,6 +15,7 @@
     <author href="http://www.google.com" email="yogeshkhanara@gmail.com">
         yogesh
     </author>
+  <content src="index.html" />
 
     <!--
         If you do not want any permissions to be added to your app, add the
